@@ -1,6 +1,11 @@
-![Vista previa de aplicación](assets/captura.png)
-
-<iframe width="640" height="360" src="https://www.loom.com/embed/458e4167dac547f994ba1f1e314810b3?sid=7ae1ae01-2d2d-4348-8d85-8723568af7a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align ="center">
+    <a href="https://www.loom.com/share/458e4167dac547f994ba1f1e314810b3">
+      <p>Instrucciones para ingresar nombres de amigos en la aplicación 🎉 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/458e4167dac547f994ba1f1e314810b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/458e4167dac547f994ba1f1e314810b3-6b186edb13fa06ca-full-play.gif">
+    </a>
+  </p>
 
 # Amigo Secreto
 
