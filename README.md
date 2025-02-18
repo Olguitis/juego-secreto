@@ -1,6 +1,6 @@
 ![Vista previa de aplicación](assets/captura.png)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/458e4167dac547f994ba1f1e314810b3?sid=a1c6e242-8a83-46d3-9fde-52c253881b18" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe width="640" height="360" src="https://www.loom.com/embed/458e4167dac547f994ba1f1e314810b3?sid=7ae1ae01-2d2d-4348-8d85-8723568af7a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # Amigo Secreto
 
