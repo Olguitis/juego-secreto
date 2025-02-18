@@ -1,6 +1,6 @@
 <p align ="center">
     <a href="https://www.loom.com/share/458e4167dac547f994ba1f1e314810b3">
-      <p>Instrucciones para ingresar nombres de amigos en la aplicación 🎉 - Watch Video</p>
+      <p>Instrucciones para ingresar nombres de amigos en la aplicación del Juego 🎉 - Ver Video</p>
     </a>
     <a href="https://www.loom.com/share/458e4167dac547f994ba1f1e314810b3">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/458e4167dac547f994ba1f1e314810b3-6b186edb13fa06ca-full-play.gif">
