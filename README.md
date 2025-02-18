@@ -34,4 +34,4 @@ Instrucciones para instalar el proyecto en el entorno local:
 
 1. Clona el repositorio:
 
-   - git clone https://github.com/Olguitis/amigo_secreto.git
+   - git clone https://github.com/Olguitis/juego-secreto.git
